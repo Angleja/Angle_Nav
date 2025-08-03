@@ -11,15 +11,15 @@ categories:
       - name: 个人导航站
         icon: fas fa-compass
         description: 一个简洁美观的个人导航页面
-        url: "#"
+        url: "https://angleja.github.io/AngleNavigate/"
       - name: Todo List
         icon: fas fa-tasks
         description: 基于Vue3的待办事项管理器
         url: "#"
       - name: 个人博客
         icon: fas fa-blog
-        description: 使用Hexo搭建的技术博客
-        url: "#"
+        description: 使用Jekyll搭建的个人博客
+        url: "https://angleja.github.io/"
   - name: 开源贡献
     icon: fas fa-code-branch
     sites:

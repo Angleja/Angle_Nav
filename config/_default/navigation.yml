@@ -11,6 +11,9 @@
 - name: 朋友
   icon: fas fa-users
   id: friends
+- name: 刷剧
+  icon: fas fa-video
+  id: videos 
 - name: 书签
   icon: fas fa-bookmark
   id: bookmarks 

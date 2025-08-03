@@ -1,0 +1,33 @@
+title: 刷剧
+subtitle: 一些刷剧网站
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: bookmarks
+
+categories:
+  - name: Local
+    icon: fas fa-folder
+    sites:
+      - name: 央视
+        url: https://v.cctv.com/
+        icon: fab fa-github
+        description: "央视频网站"
+      - name: Stack Overflow
+        url: https://stackoverflow.com/
+        icon: fab fa-stack-overflow
+        description: "从书签导入: Stack Overflow"
+      - name: MDN Web Docs
+        url: https://developer.mozilla.org/
+        icon: fas fa-link
+        description: "从书签导入: MDN Web Docs"
+  - name: Global
+    icon: fas fa-folder
+    sites:
+      - name: Twitter
+        url: https://twitter.com/
+        icon: fab fa-twitter
+        description: "从书签导入: Twitter"
+      - name: YouTube
+        url: https://www.youtube.com
+        icon: fab fa-youtube
+        description: 视频分享平台

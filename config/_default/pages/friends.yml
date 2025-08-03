@@ -8,18 +8,18 @@ categories:
   - name: 技术博主
     icon: fas fa-user-friends
     sites:
-      - name: 小明的博客
+      - name: 阮一峰的博客
         icon: fas fa-code
-        description: 全栈开发工程师，分享技术心得
-        url: "#"
-      - name: 小红的前端
+        description: 个人的博客，分享每周心得
+        url: "http://www.ruanyifeng.com/blog/"
+      - name: XX的前端
         icon: fas fa-paint-brush
         description: 专注前端开发与设计
         url: "#"
-      - name: 小张的后端
+      - name: Angle的博客
         icon: fas fa-server
-        description: 分享后端开发经验
-        url: "#"
+        description: 个人博客，分享思考
+        url: "https://angleja.github.io/"
   - name: 技术社区
     icon: fas fa-laptop-code
     sites:

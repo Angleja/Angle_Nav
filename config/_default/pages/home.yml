@@ -51,6 +51,10 @@ categories:
         url: https://www.zhihu.com
         icon: fas fa-question-circle
         description: 问答社区
+      - name: 豆瓣
+        url: https://www.douban.com/
+        icon: fas fa-question-circle
+        description: 观影社区
       - name: 掘金
         url: https://juejin.cn
         icon: fas fa-book
