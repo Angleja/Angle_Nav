@@ -8,10 +8,6 @@ categories:
   - name: 常用网站
     icon: fas fa-star
     sites:
-      - name: Linux.do
-        url: https://linux.do/
-        icon: fab fa-linux
-        description: 新的理想型社区
       - name: Google
         url: https://www.google.com
         icon: fab fa-google
@@ -20,10 +16,6 @@ categories:
         url: https://www.github.com
         icon: fab fa-github
         description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
       - name: ChatGPT
         url: https://chat.openai.com
         icon: fas fa-robot
@@ -40,6 +32,14 @@ categories:
         url: https://www.reddit.com
         icon: fab fa-reddit
         description: 社区讨论平台
+      - name: Stack Overflow
+        url: https://stackoverflow.com
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+      - name: Linux.do
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: 新的理想型社区
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
