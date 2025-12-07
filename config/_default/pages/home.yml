@@ -28,6 +28,10 @@ categories:
         url: https://twitter.com
         icon: fab fa-twitter
         description: 社交媒体平台
+      - name: 3GPP
+        url: https://www.3gpp.org/
+        icon: fab fa-standard-definition
+        description: 标准组织       
       - name: Reddit
         url: https://www.reddit.com
         icon: fab fa-reddit
@@ -133,6 +137,10 @@ categories:
         url: https://www.iconfont.cn
         icon: fas fa-icons
         description: 图标资源库
+      - name: Icon
+        url: https://fontawesome.com/icons
+        icon: fas fa-icons
+        description: 图标资源库        
       - name: Unsplash
         url: https://unsplash.com
         icon: fas fa-camera
