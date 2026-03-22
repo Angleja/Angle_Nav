@@ -59,6 +59,10 @@ categories:
         url: https://www.douban.com/
         icon: fas fa-question-circle
         description: 观影社区
+      - name: 抖音
+        url: https://www.douyin.com/jingxuan
+        icon: fas fa-play-circle
+        description: 短视频网站
       - name: 掘金
         url: https://juejin.cn
         icon: fas fa-book
@@ -192,25 +196,25 @@ categories:
         url: https://www.grammarly.com
         icon: fas fa-spell-check
         description: 英文语法检查工具
-  - name: 云服务平台
+  - name: 邮箱服务平台
     icon: fas fa-cloud
     sites:
-      - name: AWS
-        url: https://aws.amazon.com
+      - name: Outlook
+        url: https://outlook.live.com/mail/
         icon: fab fa-aws
-        description: 亚马逊云服务
-      - name: Azure
-        url: https://azure.microsoft.com
+        description: Outlook
+      - name: Gmail
+        url: https://mail.google.com/
         icon: fab fa-microsoft
-        description: 微软云平台
-      - name: Google Cloud
-        url: https://cloud.google.com
+        description: Gmail
+      - name: QQ邮箱
+        url: https://mail.qq.com/
         icon: fab fa-google
-        description: 谷歌云平台
-      - name: Cloudflare
-        url: https://www.cloudflare.com
+        description: QQ邮箱
+      - name: 163邮箱
+        url: https://mail.163.com/
         icon: fas fa-cloud
-        description: CDN与安全服务
+        description: 网易邮箱
       - name: Vercel
         url: https://vercel.com
         icon: fas fa-server
