@@ -30,7 +30,7 @@ categories:
         description: 社交媒体平台
       - name: 3GPP
         url: https://www.3gpp.org/
-        icon: fab fa-standard-definition
+        icon: fab fa-flag
         description: 标准组织       
       - name: Reddit
         url: https://www.reddit.com
@@ -57,12 +57,36 @@ categories:
         description: 问答社区
       - name: 豆瓣
         url: https://www.douban.com/
-        icon: fas fa-question-circle
+        icon: fas fa-video
         description: 观影社区
       - name: 抖音
         url: https://www.douyin.com/jingxuan
-        icon: fas fa-play-circle
+        icon: fas fa-tiktok
         description: 短视频网站
+      - name: 网易云课堂
+        url: https://study.163.com/
+        icon: fas fa-chalkboard
+        description: 在线学习平台
+        - name: Coursera
+        url: https://www.coursera.org
+        icon: fas fa-university
+        description: 在线课程平台
+      - name: edX
+        url: https://www.edx.org
+        icon: fas fa-graduation-cap
+        description: 高质量在线教育
+      - name: Grammar
+        url: https://www.grammarly.com
+        icon: fas fa-spell-check
+        description: 英文写作辅助工具
+      -name: LongManDictionary
+        url: https://www.dictionary.com
+        icon: fas fa-book-open
+        description: 在线词典
+      -name: CabridgeDictionary
+        url: https://dictionary.cambridge.org
+        icon: fas fa-book-reader
+        description: 剑桥词典
       - name: 掘金
         url: https://juejin.cn
         icon: fas fa-book
@@ -71,14 +95,6 @@ categories:
         url: https://leetcode.cn
         icon: fas fa-code
         description: 算法刷题平台
-      - name: Coursera
-        url: https://www.coursera.org
-        icon: fas fa-university
-        description: 在线课程平台
-      - name: edX
-        url: https://www.edx.org
-        icon: fas fa-graduation-cap
-        description: 高质量在线教育
       - name: Udemy
         url: https://www.udemy.com
         icon: fas fa-chalkboard-teacher
@@ -201,15 +217,15 @@ categories:
     sites:
       - name: Outlook
         url: https://outlook.live.com/mail/
-        icon: fab fa-aws
+        icon: fab fa-microsoft
         description: Outlook
       - name: Gmail
         url: https://mail.google.com/
-        icon: fab fa-microsoft
+        icon: fab fa-google
         description: Gmail
       - name: QQ邮箱
         url: https://mail.qq.com/
-        icon: fab fa-google
+        icon: fab fa-envelope-square
         description: QQ邮箱
       - name: 163邮箱
         url: https://mail.163.com/
